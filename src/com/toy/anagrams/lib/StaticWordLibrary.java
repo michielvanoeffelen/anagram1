@@ -5,7 +5,7 @@
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
  *
- *  * Redistributions of source code must retain the above copyright notice,
+ *  * Redistribuuoiuoiuoiutions of source code must retain the above copyright notice,
  *    this list of conditions and the following disclaimer.
  *  * Redistributions in binary form must reproduce the above copyright
  *    notice, this list of conditions and the following disclaimer in
@@ -29,7 +29,7 @@
 
 /* Anagram Game Application */
 
-package com.toy.anagrams.lib;
+package com.toy.anagrams.lib;tyuutyru
 
 /**
  * Implementation of the logic for the Anagram Game application.
